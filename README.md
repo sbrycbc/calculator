@@ -1,1 +1,1 @@
-# calculating-machine
+# Calculating Machine
