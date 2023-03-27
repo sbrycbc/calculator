@@ -27,9 +27,54 @@ body {
     font-size: 4rem;
     height: 70px;
     border: none;
-    background-color: black;
+    background-color: #252525;
     color: #fff;
     text-align: right;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+button {
+    height: 50px;
+    background-color: #fff;
+    border-radius: 3px;
+    border: 1px solid #c4c4c4;
+    background-color: transparent;
+    font-size: 2.5rem;
+    color: #333;
+}
+
+button:hover{
+    background-color: #eaeaea;
+}
+.operator{
+    color: #337cac;
+}
+.clear{
+    background-color: #f059f0;
+    border-color:#b0353a;
+    color: #fff;
+}
+
+.clear:hover{
+    background-color: #f17377;
+    
+}
+
+.equal-sign{
+    background-color: #e49ed4;
+    border-color: #337cac;
+    color: #fff;
+    height: 75%;
+    grid-area: 2/4/6/5;
+}
+.equal-sign:hover{
+    background-color: #4e9ed4;
+}
+
+.calculator-keys{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+    padding: 20px;
 }
