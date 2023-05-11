@@ -24,11 +24,4 @@ This calculator provides a user interface for performing basic arithmetic operat
 - CSS
 - JavaScript
 
-## Preview
-
-![Calculator Preview](calculator-preview.png)
-
-Feel free to clone or download the repository to try out the calculator yourself.
-
-
 - [Calculator](https://sbrycbc.github.io/calculator/ "Calculator")
