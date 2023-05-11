@@ -24,4 +24,4 @@ This calculator provides a user interface for performing basic arithmetic operat
 - CSS
 - JavaScript
 
-here 👉️ [Calculator](https://sbrycbc.github.io/calculator/ "Calculator")
+here 👉️ [🔢️ Calculator](https://sbrycbc.github.io/calculator/ "Calculator")
