@@ -25,4 +25,3 @@ This calculator provides a user interface for performing basic arithmetic operat
 - JavaScript
 
 here 👉️ [🔢️ Calculator](https://sbrycbc.github.io/calculator/ "Calculator")
- 
